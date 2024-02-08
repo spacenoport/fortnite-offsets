@@ -1,3 +1,5 @@
-bonematrix = 0x2335A94,
-staticfindobject = 0x1639504,
-uworld 0x112F14C8;
+    int GWorld/uworld = 0x11770D88;
+    int GObjects = 0x11749AC0;
+
+    int StaticFindObject = 0x12DD5C0;
+    int GetBoneMatrix = 0x142900C;
