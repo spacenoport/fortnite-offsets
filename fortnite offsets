@@ -1,5 +1,37 @@
-    int GWorld/uworld = 0x11770D88;
-    int GObjects = 0x11749AC0;
-
-    int StaticFindObject = 0x12DD5C0;
-    int GetBoneMatrix = 0x142900C;
+By Space (no port) https://discord.gg/qRS3jVfH8Y
+UWorld -> 0x1216B7B8
+GNames -> 0x12328480
+GameState -> 0x160
+OwningGameInstance -> 0x1D8
+LocalPlayers -> 0x38
+PlayerController -> 0x30
+LocalPawn -> 0x338
+PlayerState -> 0x2B0
+RootComponent -> 0x198
+PersistentLevel -> 0x30
+ReviveFromDBNOTime -> 0x4C30
+Mesh -> 0x318
+TeamIndex -> 0x1211
+RelativeLocation -> 0x120
+CurrentWeapon -> 0xA68
+PrimaryPickupItemEntry -> 0x350
+ItemDefinition -> 0x18
+Rarity -> 0x113
+ItemName -> 0x40
+Levels -> 0x178
+WeaponData -> 0x4F0
+AmmoCount -> 0xE54
+bIsTargeting -> 0xDB4
+ComponentVelocity -> 0x168
+Platform -> 0x438
+TimeHeatWasLastAdded -> 0x1BC4
+TimeOverheatedBegan -> 0x1BC8
+OverheatValue -> 0x1BBC
+WeaponOverheatedAnimation -> 0x1BB0
+TargetedFortPawn -> 0x1888
+BoneArray -> 0x5B0
+BoneCache -> 0x5E0
+ComponentToWorld -> 0x1C0
+LastRenderTimeOnScreen -> 0x2F0
+LastSubmitTime -> 0x2E8
+ActorCount -> 0xA8
