@@ -17,7 +17,7 @@ CurrentWeapon -> 0xA68
 PrimaryPickupItemEntry -> 0x350
 ItemDefinition -> 0x18
 Rarity -> 0x113
-ItemName -> 0x40
+ItemName/DisplayName -> 0x40
 Levels -> 0x178
 WeaponData -> 0x4F0
 AmmoCount -> 0xE54
