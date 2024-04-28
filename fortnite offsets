@@ -1,3 +1,14 @@
+// INTERNAL OFFSETS
+
+staticfindobject -> 0x13A8170
+
+getbonematrix -> 0x1C7FD2C
+
+uworld/gworld -> 0x12634238
+
+//EXTERNAL OFFSETS
+
+
 By Space (no port) https://discord.gg/qRS3jVfH8Y
 UWorld -> 0x12634238
 GNames -> 0x127F3180
