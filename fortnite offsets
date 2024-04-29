@@ -1,12 +1,10 @@
-// INTERNAL OFFSETS
-
-staticfindobject -> 0x13A8170
-
-getbonematrix -> 0x1C7FD2C
 
 uworld/gworld -> 0x12634238
+staticfindobject -> 0x13A8170
+getbonematrix -> 0x1C7FD2C
+GObjects = 0x1260C568
+GNames = 0x12418018
 
-//EXTERNAL OFFSETS
 
 
 By Space (no port) https://discord.gg/qRS3jVfH8Y
