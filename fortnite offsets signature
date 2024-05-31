@@ -1,4 +1,6 @@
 By Space (no port) https://discord.gg/qRS3jVfH8Y
+static_finc_object 0x146D58C
+get_bone_matrix 0x1EB8938
 UWorld/GWorld -> 0x12BA7050 - signature - 48 89 05 ? ? ? ? 0F 28 D7
 GNames -> 0x12D85B40
 GameState -> 0x160
